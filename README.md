@@ -8,11 +8,11 @@
 &emsp;&emsp;&emsp;-> **clear**	-> clear the terminal <br />
 &emsp;&emsp;&emsp;-> **cd** -> change directory <br />
 &emsp;&emsp;&emsp;-> **pwd**	-> show the path of the current working directory <br />
-&emsp;&emsp;&emsp;-> **echo**	-> display line of text/string that are passed as an argument <br /> <br />
+&emsp;&emsp;&emsp;-> **echo**	-> display line of text/string that are passed as an argument <br />
 &emsp;&emsp;&emsp;-> **mkdir**	-> create a new directory <br />
 &emsp;&emsp;&emsp;&emsp;-> mkdir options: <br />
 &emsp;&emsp;&emsp;&emsp;&emsp;-> **-m**   -> used to set the file modes(permissions) <br />
-&emsp;&emsp;&emsp;&emsp;&emsp;-> **-p**   -> flag that enables the command to create parent directories as necessary <br /> <br />
+&emsp;&emsp;&emsp;&emsp;&emsp;-> **-p**   -> flag that enables the command to create parent directories as necessary <br /> 
 &emsp;&emsp;&emsp;-> **rmdir**	-> remove the chosen directory <br />
 &emsp;&emsp;&emsp;-> **ls**	-> list files or directories from current directory <br />
 &emsp;&emsp;&emsp;&emsp;-> ls options (you can combine these principal options): <br />
